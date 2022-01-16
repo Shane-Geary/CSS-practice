@@ -37,6 +37,7 @@ img {
   height: 100%;
   object-fit: cover;
   object-position: 55%;
+  transform: scale(1.4) translate(0, 12%) rotate(30deg);
 }
 
 figcaption {
