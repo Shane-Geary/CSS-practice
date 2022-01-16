@@ -22,4 +22,7 @@ img {
 }
 
 .the-image {
+  height: inherit;
+  width: inherit;
+  object-fit: cover;
 }
